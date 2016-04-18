@@ -1,0 +1,6 @@
+[package]
+name = "Ion"
+version = "0.1.0"
+authors = ["Andrew Kvapil <viluon@espiv.net>"]
+
+[dependencies]
