@@ -1,6 +1,7 @@
 [package]
-name = "Ion"
+name = "ion"
 version = "0.1.0"
-authors = ["Andrew Kvapil <viluon@espiv.net>"]
+authors = ["Andrew Kvapil <viluon@espiv.net>", "Matheus de Alcantara <matheus.de.alcantara@gmail.com>"]
 
 [dependencies]
+glium = "*"
