@@ -3,5 +3,6 @@ name = "ion"
 version = "0.1.0"
 authors = ["Andrew Kvapil <viluon@espiv.net>", "Matheus de Alcantara <matheus.de.alcantara@gmail.com>"]
 
-[dependencies]
-glium = "*"
+[dependencies.gtk]
+version = "*"
+features = ["v3_16"]
