@@ -1,7 +1,7 @@
 [package]
 name = "ion"
 version = "0.1.0"
-authors = ["Andrew Kvapil <viluon@espiv.net>", "Matheus de Alcantara <matheus.de.alcantara@gmail.com>"]
+authors = [ "Andrew Kvapil <viluon@espiv.net>" ]
 
 [dependencies.gtk]
 version = "*"
